@@ -49,6 +49,7 @@ Ce TP est une initiation à la création et configuration de pipelines GitHub da
 > - Un simple éditeur de texte suffit puisqu'il n'est pas demandé d'exécuter l'application en local.
 > - Il est possible de travailler directement sur la branche par défaut (`main`).
 > - La visibilité du repository doit être **public** afin de pouvoir aller jusqu'au bout du TP.
+> - Des erreurs volontaires ont été introduites dans le TP. La correction ne doit être effectuée qu'une fois **explicitement** demandée.
 
 ### Déroulement pratique
 
