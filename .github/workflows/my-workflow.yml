@@ -2,7 +2,11 @@ name: Manual install
 
 on:
   workflow_dispatch:
-
+    inputs:
+        run-tests:
+          description: "Run tests?"
+          required: true
+          default: "false"
 jobs:
   install:
     runs-on: ubuntu-latest
